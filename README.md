@@ -1,10 +1,7 @@
 # My-Portfolio
-## Start-Date - 21-12-2024
-
-
+Start-Date - 21-12-2024
 
 Welcome to my portfolio repository! My Name is Nikesh Sharma.
-
 This project showcases my skills, projects, and experiences as a web developer. Stay tuned as I build and refine my personal portfolio.
 
 ## 🚀 Features
