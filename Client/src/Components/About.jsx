@@ -82,7 +82,7 @@ const About = () => {
             <span className="font-bold text-cyan-500">
               React, Node.js, Express, and MongoDB
             </span>, I thrive on building scalable and efficient solutions. 
-            Let’s build something amazing together! 🚀
+            Let’s build something amazing together! 
           </p>
         </div>
 

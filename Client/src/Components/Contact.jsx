@@ -1,7 +1,9 @@
 import React from "react";
 
+
 const Contact = () => {
   return (
+
     <>
       <div name="contact" className="w-full h-screen bg-gradient-to-b from-black to-gray-800 p-4 text-white">
         <div className="flex flex-col p-4 justify-center max-w-screen-lg mx-auto h-full">
@@ -11,17 +13,19 @@ const Contact = () => {
           </div>
 
           <div className="flex justify-center items-center">
-            <form action="" className="flex flex-col w-full md:w-1/2">
+            <form action="https://getform.io/f/bwnnoqra" method="POST" className="flex flex-col w-full md:w-1/2">
               <input
                 type="text"
                 name="name"
                 placeholder="Enter your name.."
                 className="  p-2 bg-transparent border-2 rounded-md text-white focus:outline-none"
+                
+                
               />
 
 <input
                 type="text"
-                name="name"
+                name="email"
                 placeholder="Enter your email.."
                 className="p-2 my-4 bg-transparent border-2 rounded-md text-white focus:outline-none"
               />
@@ -36,3 +40,11 @@ const Contact = () => {
 };
 
 export default Contact;
+
+
+
+
+
+
+
+

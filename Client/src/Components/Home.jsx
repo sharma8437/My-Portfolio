@@ -13,8 +13,8 @@ const Home = () => {
       >
         <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
           <div className="flex flex-col justify-center h-full">
-           <h2 className="text-4xl sm:text-7xl font-bold text-white">
-             <span className="text-cyan-500">I'</span> m a fullStack developer
+           <h2 className="text-3xl sm:text-7xl font-bold text-white mt-32 md:mt-0">
+             <span className="text-cyan-500">I'</span> m a fullStack  developer
             </h2> 
             <p className="text-gray-500 py-4 max-w-md">
               Hi, I'm Nikesh Sharma, an aspiring MERN Stack Developer with a
@@ -48,7 +48,7 @@ const Home = () => {
 <div className="flex  m-3 gap-3 ">
 
 <ResumeBtn name="Portfolio" to="portfolio" isScroll={true} />
-  <ResumeBtn name="Download Resume" to="/resume.pdf" download={true} />
+  <ResumeBtn name="Resume" to="/resume.pdf" download={true} />
 </div>
           </div>
           <div>
