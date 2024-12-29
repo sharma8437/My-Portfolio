@@ -13,8 +13,12 @@ This project showcases my skills, projects, and experiences as a web developer. 
 
 ## 🛠️ Technologies Used
 
-- **Frontend**: React.js, HTML, CSS, JavaScript
+
+- **Frontend**: React.js, HTML, CSS, daisyui,React-icons
  
 - **Styling**: Tailwind CSS
 
 
+<img width="1429" alt="Screenshot 2024-12-29 at 11 14 40 PM" src="https://github.com/user-attachments/assets/692038b8-2cde-45b5-919f-d1e11552022d" />
+<img width="1420" alt="Screenshot 2024-12-29 at 11 15 32 PM" src="https://github.com/user-attachments/assets/b588a00b-2f6b-4118-aeb7-afa7a632ac73" />
+<img width="1433" alt="Screenshot 2024-12-29 at 11 15 03 PM" src="https://github.com/user-attachments/assets/ce871092-3d4f-4d28-a779-bf3577647d42" />
