@@ -15,10 +15,10 @@ This project showcases my skills, projects, and experiences as a web developer. 
 
 Tech Stack 👨‍💻
 
- -- ** 💻Frontend**: React.js, Tailwind CSS ,DaisyUI.
-   -- **  🔗Routing**: Smooth scrolling for seamless navigation. 
-  -- **  ✎Icons** : React-icons for clean and intuitive UI.
- -- **  🪩Deployment** : Netlify for fast and efficient hosting.
+# 💻Frontend: React.js, Tailwind CSS ,DaisyUI.
+#   🔗Routing: Smooth scrolling for seamless navigation. 
+# ✎Icons : React-icons for clean and intuitive UI.
+#  🪩Deployment : Netlify for fast and efficient hosting.
 
 Check it out here: https://profile-nikesh.netlify.app/
 
