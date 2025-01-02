@@ -20,7 +20,7 @@ Tech Stack 👨‍💻
  ✎Icons : React-icons for clean and intuitive UI
  🪩Deployment : Netlify for fast and efficient hosting
 
-Check it out here: https://lnkd.in/gHacj_XD
+Check it out here: https://profile-nikesh.netlify.app/
 
 
 
