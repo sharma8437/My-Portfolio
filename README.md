@@ -13,10 +13,15 @@ This project showcases my skills, projects, and experiences as a web developer. 
 
 ## 🛠️ Technologies Used
 
+Tech Stack 👨‍💻
 
-- **Frontend**: React.js, HTML, CSS, daisyui,React-icons
- 
-- **Styling**: Tailwind CSS
+ 💻Frontend: React.js, Tailwind CSS ,DaisyUI
+ 🔗Routing: Smooth scrolling for seamless navigation 
+ ✎Icons : React-icons for clean and intuitive UI
+ 🪩Deployment : Netlify for fast and efficient hosting
+
+Check it out here: https://lnkd.in/gHacj_XD
+
 
 
 <img width="1429" alt="Screenshot 2024-12-29 at 11 14 40 PM" src="https://github.com/user-attachments/assets/692038b8-2cde-45b5-919f-d1e11552022d" />
